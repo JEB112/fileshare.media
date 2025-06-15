@@ -6,3 +6,5 @@
 .electra
 .dino
 .png
+.rdo
+.clover
