@@ -1,0 +1,8 @@
+.sb3
+.pmp
+.snail
+.sb2
+.sb
+.electra
+.dino
+.png
